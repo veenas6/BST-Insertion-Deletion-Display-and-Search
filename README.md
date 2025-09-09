@@ -33,7 +33,7 @@ This Python program demonstrates the implementation of **Depth-First Search (DFS
   'C': ['A', 'D'],
   'D': ['B', 'C']
 }
-
+'''
 
 ## Technologies Used
 - **Python 3** — Programming language used for implementing the algorithms.  
