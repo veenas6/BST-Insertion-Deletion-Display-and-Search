@@ -34,6 +34,4 @@ This Python program demonstrates the implementation of **Depth-First Search (DFS
   'D': ['B', 'C']
 }
 
-##**Technologies Used**
-Python 3
-collections.deque (for BFS queue)
+
