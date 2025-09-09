@@ -35,3 +35,10 @@ This Python program demonstrates the implementation of **Depth-First Search (DFS
 }
 
 
+## Technologies Used
+- **Python 3** — Programming language used for implementing the algorithms.  
+- **collections.deque** — Python’s built-in double-ended queue used to efficiently implement the BFS queue.  
+- **Recursion** — Used in DFS implementation for traversing the graph.  
+- **Data Structures** — Adjacency matrix and adjacency list representations of graphs.
+
+
